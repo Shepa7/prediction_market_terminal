@@ -1,4 +1,4 @@
-# 📊 Prediction Market Terminal v2
+# 📊 Prediction Market Terminal 
 
 Торговый терминал для prediction markets с полным набором ордеров и автоматическим матчингом.
 
